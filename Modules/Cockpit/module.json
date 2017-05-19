@@ -1,0 +1,16 @@
+{
+    "name": "Cockpit",
+    "alias": "cockpit",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Cockpit\\Providers\\CockpitServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
