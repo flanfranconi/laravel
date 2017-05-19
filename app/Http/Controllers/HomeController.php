@@ -24,6 +24,7 @@ class HomeController extends Controller
     public function index()
     {
         echo 123;
+        echo 123;
 
         return view('home');
     }
